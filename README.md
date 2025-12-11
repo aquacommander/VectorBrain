@@ -77,4 +77,4 @@ Feel free to open issues or pull requests!
 
 ---
 
-Made with 💙 by Edson Lourenço
+Made with 💙 by aqaucommandeer
